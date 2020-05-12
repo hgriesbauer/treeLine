@@ -1,0 +1,31 @@
+---
+title: "Historical changes in forest densification and migration at the alpine-treeline ecotone in central BC"
+author: "Hardy Griesbauer"
+date: "12/05/2020"
+output:
+  word_document: default
+
+bibliography: C:\\Users\\hgriesba\\Documents\\Git\\bibTexFiles\\Treeline.bib
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(captioner)
+
+```
+
+# Introduction
+
+Key concepts for paper
+- about half of world's high-elevation treelines have moved 
+
+Upward migration and tree densification
+An increase in tree establishment at the alpine-treeline ecotone can result in two phenomena; forest densification and upward migration of the treeline [@Feuillet2019a]
+
+
+# Methods
+
+
+# References
