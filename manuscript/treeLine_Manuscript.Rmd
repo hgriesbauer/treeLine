@@ -31,9 +31,11 @@ Thus, we need a greater understanding of potential impacts from climate change i
 #### Introduce the alpine-treeline ecotone
 At upper elevations, forests change to non-treed ecosystems, such as alpine tundra.  
 How is this transition defined?
-The boundary between forest and alpine ecosystems can be 'fuzzy' and difficult to discern [@Harsch2011a; @Feuillet2019a].  A number of tree-based thresholds have been proposed including mean tree heights of and 
+The boundary between forest and alpine ecosystems can be 'fuzzy' and difficult to discern [@Harsch2011a; @Feuillet2019a].  
+A number of tree-based thresholds have been proposed including mean tree heights of and 
 In British Columbia, a percentage cover by trees of 10% has been proposed [@MacKenzie2012].
-The alpine-treeline boundary can also take a number of forms [@Harsch2011a].  Diffuse treelines are characterized by a relative gradual decrease in tree height and density, primarily found in environments where summer climate limits growth but not regeneration.   
+The alpine-treeline boundary can also take a number of forms [@Harsch2011a].  
+Diffuse treelines are characterized by a relative gradual decrease in tree height and density, primarily found in environments where summer climate limits growth but not regeneration.   
 
 #### How does climate limit the position of the treeline?
 Summer temperatures were once thought to limit the global alpine treeline
@@ -42,9 +44,15 @@ In other environments, Winter conditions can repeatedly damage trees through sev
 There are non-climatic controls on the treeline position as well. Abrupt and island treelines may form in areas where treeline expansion is limited by permanent topographical features such as rock outcrops and thin soils, or by localized areas characterized by deep accumulations of snow that persist into the summer and preclude germination.  As well, successful seed germination and survival may be hindered by herbivory and competition from shrubs [@].  In other cases, dense shrub layers can prevent seedfall from reaching the ground [@]
 
 #### Implications of climate on change alpine-treeline ecotone
-An increase in tree establishment at the alpine-treeline ecotone can result in two phenomena; forest densification and upward migration of the treeline [@Feuillet2019a].
-About half of the world's treelines have migrated upwards in elevation, presumably associated with warmer temperatures [@Harsch2009]  Treelines are relatively static and will lag behind climate change for a period of time. As well, the pathway of treeline migration will likely not be linear; rather trees may not rise until a climatic threshold has been exceeded that now allows for tree recruitment.  This will also vary depending on the climatic limitation.  Diffuse treelines may respond relatively quickly in response to warmer summer temperatures, wherewas krummholz treelines might not move until extreme and anomalous conditions lessen.  One severe winter storm can remove growth and form gains from previous decades.
+An increase in tree establishment at the alpine-treeline ecotone can result in several phenomena; forest densification, enhanced growth and upward migration of the treeline [@Feuillet2019a] as well as changes in tree morphology [@Camarera2017b].
+About half of the world's treelines have migrated upwards in elevation, presumably associated with warmer temperatures [@Harsch2009]  
+
+Treelines are relatively static and will lag behind climate change for a period of time. As well, the pathway of treeline migration will likely not be linear; rather trees may not rise until a climatic threshold has been exceeded that now allows for tree recruitment.  This will also vary depending on the climatic limitation.  Diffuse treelines may respond relatively quickly in response to warmer summer temperatures, wherewas krummholz treelines might not move until extreme and anomalous conditions lessen.  One severe winter storm can remove growth and form gains from previous decades.
+
+
 Growth on the other hand, tends to respond at annual and finer temporal scales; therefore, the impacts of climate change in treeline forest may be observed initially in growth responses.
+Treeline forests in Europe may reach size and reproductive potential similar to forests in subalpine forests by the middle of the 21st century, with treeline densification accelerating after that [@Camarero2017b].
+
 
 #### Context for this study
 The objectives of this study are to examine diffuse and krummholz treelines in three mountain ranges of central British Columbia, in order to determine historical chnages in treeline position and densification.  We studied this phenomenon at decadal scales through air-photo image analysis, as well as at inter-annual scales through dendrochronological data and satellite imagery.  Our main hypotheses were:
