@@ -69,6 +69,18 @@ Upward migration and tree densification
 
 # Methods
 
+## Modeling the climatic treeline
+To model historical, current and future climatic treelines, we implemented the following process:
+
+1. Create isotherm of FFP 90 days and growing season temperature of 6.7Degree C [@Barredoo2020; @Korner2004;]
+2. Compare to VRI data (potentially can use a tree height of 3m to define treeline)
+3. Use statistical approach as per Barredo et al. [-@Barredo2020].
+
+Also, pursued our own approach to use VRI data to define treeline position, and then machine learning with ClimateBC variables to predict climatic thresholds defining the treeline position.
+1. Define treeline using VRI
+2. Apply maybe a 1km buffer around the treeline line
+3. 
+
 
 # Discussion
 
