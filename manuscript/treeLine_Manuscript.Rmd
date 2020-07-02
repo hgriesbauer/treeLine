@@ -82,6 +82,24 @@ Also, pursued our own approach to use VRI data to define treeline position, and 
 3. 
 
 
+## Field methods
+
+Within the context of alpine treeline studies, it is important to define what constitutes the treeline and where trees transition from upright organisms to prostate life form more shrub-like in appearance.  
+
+For the purposes of this study, we considered any occurrence of a Picea or Abies species to be a tree, regardless of height or form.  This allowed us to sample individuals that may have only recently become established, but in cases where we sampled trees that were short enough to be covered by snowpack during the winter, these trees may not be necessarily exposed to limiting climate conditions [@Paulsen2000].  
+
+
+
+### Site selection
+We targeted areas with diffuse treelines, as these are considered to be most responsive to climate change [@Holt].  We avoided areas with evidence of human, fire or insect disturbance, and avoided areas where obvious soil or topographic features (e.g., cliffs) imposed a non-climatic constraint on the treeline position.
+
+We considered the following approaches to sampling trees at the treeline:
+
+1. From [@Brown]: At each site we identified the current position of the timberline, defined as the elevation zone where canopy cover was reduced to < 30%.  Canopy cover was measured using a convex densitometer.  We then established three vertical transects, with 10-m diameter circular plots located at 5, 25, 50 and 100 m above and below the current timberline.  Vertical transects were spaced at 25 m intervals across the slope.   Within each plot we took a full census of seedlings, saplings, mature trees, and standing dead stems. Seedlings, saplings and mature trees were defined as upright stems  < 130 cm in height, > 130 cm in height with a diameter at breast height (dbh) < 10 cm, and > 130 cm in height with a dbh  > 10 cm, respectively.  In each plot we randomly selected up to 3 seedlings, 3 saplings and 10 mature trees and sampled them to 
+represent the age structure of the population.  Seedlings were uprooted and cross-sectional discs were cut from the base of the stem at the root-shoot boundary.  Increment cores were extracted as close to the base of trees as possible for most saplings and mature trees.  Krummholz were sampled by uprooting the identifiable parent stem and removing a disc sample from the root shoot boundary.  When possible, krummholz were selectively sampled by acquiring disc samples from individuals with single erect stems.
+
+2. 
+
 # Discussion
 
 ## Implications of changes in high-altitude forests
