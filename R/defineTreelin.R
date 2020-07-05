@@ -20,11 +20,11 @@ library(here)
 #   collect()
 # save(bgcROM,file=here("data","bgcROM.RData"))
 
-load(here("data","bgcROM.RData"))
+load(here("data","romBGC.RData"))
 
 # Took a look at bgcROM - not worth using IMA zones.  Too inaccurate
-x<-rbind(bgcROM[grep(fixed("Parkland"),x),],
-         bgcROM[grep(fixed("Woodland"),x),])
+x<-rbind(romBGC[grep(fixed("Parkland"),x),],
+         romBGC[grep(fixed("Woodland"),x),])
 
-mapview(x,zcol="MAP_LABEL",fillOpacity=0.1)
+mapview(romBGC,zcol="MAP_LABEL")
 

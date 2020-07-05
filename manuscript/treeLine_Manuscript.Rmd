@@ -61,6 +61,8 @@ The objectives of this study are to examine diffuse and krummholz treelines in t
 2. Forests near treeline increased in density over the past century;
 3. Treelines are moving up in elevation
 
+Island treeline forms are common in the Omineca and elsewhere in North America [c.f. @Harsch2011a].  Island tan reeline forms may represent two phenomena: (i) the gradual colonization of trees into the alpine tundra starting with the successful establishment of a seedling in the lee of a shletering rock or outcrop, and modifying its local environment in such a way that allowasdasdfdzfor additional seedling establishment; and (ii) a transient establishment of trees that representan
+an 
 Upward migration and tree densification
 
 
@@ -86,7 +88,7 @@ Also, pursued our own approach to use VRI data to define treeline position, and 
 
 Within the context of alpine treeline studies, it is important to define what constitutes the treeline and where trees transition from upright organisms to prostate life form more shrub-like in appearance.  
 
-For the purposes of this study, we considered any occurrence of a Picea or Abies species to be a tree, regardless of height or form.  This allowed us to sample individuals that may have only recently become established, but in cases where we sampled trees that were short enough to be covered by snowpack during the winter, these trees may not be necessarily exposed to limiting climate conditions [@Paulsen2000].  
+For the purposes of this study, we considered any occurrence of a Picea or Abies species to be a tree, regardless of height or form.  This allowed us to sample individuals that may have only recently become established, but in cases where we sampled trees that were short enough to be covered by snowpack during the winter, these trees may not be necessarily exposed to limiting climate conditions [@Paulsen2000].  Thus, considering seedlings as the upper limit of the treeline might not be accurate, as seedlings can be come successfully established under shelter from small features such as other shrubs and rocks, but can become persistently stuck in shrub form once exposed to the open atmosphere several metres above the ground [@Korner2012].
 
 
 
@@ -94,6 +96,8 @@ For the purposes of this study, we considered any occurrence of a Picea or Abies
 We targeted areas with diffuse treelines, as these are considered to be most responsive to climate change [@Holt].  We avoided areas with evidence of human, fire or insect disturbance, and avoided areas where obvious soil or topographic features (e.g., cliffs) imposed a non-climatic constraint on the treeline position.
 
 We considered the following approaches to sampling trees at the treeline:
+
+An assessment of treelines in the Omineca indicated that many treelines are an island form, with disjunct islands.  
 
 1. From [@Brown]: At each site we identified the current position of the timberline, defined as the elevation zone where canopy cover was reduced to < 30%.  Canopy cover was measured using a convex densitometer.  We then established three vertical transects, with 10-m diameter circular plots located at 5, 25, 50 and 100 m above and below the current timberline.  Vertical transects were spaced at 25 m intervals across the slope.   Within each plot we took a full census of seedlings, saplings, mature trees, and standing dead stems. Seedlings, saplings and mature trees were defined as upright stems  < 130 cm in height, > 130 cm in height with a diameter at breast height (dbh) < 10 cm, and > 130 cm in height with a dbh  > 10 cm, respectively.  In each plot we randomly selected up to 3 seedlings, 3 saplings and 10 mature trees and sampled them to 
 represent the age structure of the population.  Seedlings were uprooted and cross-sectional discs were cut from the base of the stem at the root-shoot boundary.  Increment cores were extracted as close to the base of trees as possible for most saplings and mature trees.  Krummholz were sampled by uprooting the identifiable parent stem and removing a disc sample from the root shoot boundary.  When possible, krummholz were selectively sampled by acquiring disc samples from individuals with single erect stems.

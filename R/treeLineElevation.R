@@ -17,11 +17,14 @@ library(ggplot2)
 library(sf)
 library(rgeos)
 library(sp)
+library(tidyverse)
 
 rom<-  # Create new spatial feature called dpg
   bcdc_query_geodata("natural-resource-nr-regions") %>%  # query the nr district dataset 
   filter(ORG_UNIT=="ROM") %>% # filter for Prince George District
   collect() # and download it 
+
+save(rom,file=here("data","romBdy.RData"))
 
 romBGC <- bcdc_query_geodata("WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_POLY") %>% 
   filter(INTERSECTS(rom)) %>% # Note the different way to filter
