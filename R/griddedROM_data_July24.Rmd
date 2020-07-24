@@ -1,0 +1,26 @@
+---
+title: "ROM treeline raster analysis"
+author: "Hardy Griesbauer"
+date: "24/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(raster)
+library(rasterVis)
+
+```
+
+## Load raster datasets
+```{r load raster, cache=TRUE}
+
+# Load raster
+dat<-stack("../data/spatial/treeLineData_merged.tif")
+
+# Assign names
+names(dat)<-c("bec","grid","ndvi","aspect","dem","lc","summTAV")
+
+```
